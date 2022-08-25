@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57090384-8c8d-4d06-baa7-0bf061d67bf5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Bf0sSVK2sl0podw1f2KY8FzDy7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heimaAI/CNN/object-detection" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonprojects\CVStudy\heimaAI\CNN\object-detection" />
+      <recent name="E:\pythonprojects\CVStudy\heimaAI\CNN\图像分类\hotdog\train" />
+      <recent name="E:\pythonprojects\CVStudy\heimaAI\CNN\图像分类\hotdog\test" />
+      <recent name="E:\pythonprojects\CVStudy\heimaAI" />
+      <recent name="E:\pythonprojects\CVStudy\kaikeba" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythonprojects\CVStudy\heimaAI\CNN\图像分类" />
+      <recent name="E:\pythonprojects\CVStudy\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.01-metrics">
+    <configuration name="00-metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CVStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heimaAI/CNN/object-detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heimaAI/CNN/object-detection/00-metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01-metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CVStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heimaAI/CNN/object-detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heimaAI/CNN/object-detection/01-metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-ResNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CVStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heimaAI/CNN/图像分类/05-ResNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06-image-arguement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CVStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heimaAI/CNN/图像分类/06-image-arguement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07-finetuning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CVStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heimaAI/CNN/图像分类/07-finetuning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.05-ResNet" />
+      <item itemvalue="Python.06-image-arguement" />
+      <item itemvalue="Python.07-finetuning" />
+      <item itemvalue="Python.00-metrics" />
+      <item itemvalue="Python.01-metrics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01-metrics" />
+        <item itemvalue="Python.00-metrics" />
+        <item itemvalue="Python.07-finetuning" />
+        <item itemvalue="Python.06-image-arguement" />
+        <item itemvalue="Python.05-ResNet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57090384-8c8d-4d06-baa7-0bf061d67bf5" name="Default Changelist" comment="" />
+      <created>1657282038565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657282038565</updated>
+      <workItem from="1657282039685" duration="2220000" />
+      <workItem from="1657455636557" duration="1312000" />
+      <workItem from="1657614562268" duration="4880000" />
+      <workItem from="1657790355100" duration="107000" />
+      <workItem from="1657790680290" duration="7753000" />
+      <workItem from="1658045634112" duration="45834000" />
+      <workItem from="1658317845234" duration="40230000" />
+      <workItem from="1658751061152" duration="1056000" />
+      <workItem from="1658752290579" duration="1826000" />
+      <workItem from="1658821922442" duration="16372000" />
+      <workItem from="1658988916209" duration="943000" />
+      <workItem from="1659616429830" duration="16315000" />
+      <workItem from="1660373725913" duration="8891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="613" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658750739292">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state x="1920" y="613" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1658750739292" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1657790909996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1657790909996" />
+    <state width="1037" height="675" key="GridCell.Tab.0.bottom" timestamp="1660998643539">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1080.1880@-1920.0.1920.1040" timestamp="1657282474170" />
+    <state width="1877" height="319" key="GridCell.Tab.0.bottom/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1658750680246" />
+    <state width="1037" height="675" key="GridCell.Tab.0.bottom/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660998643539" />
+    <state width="1037" height="675" key="GridCell.Tab.0.center" timestamp="1660998643539">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1080.1880@-1920.0.1920.1040" timestamp="1657282474170" />
+    <state width="1877" height="319" key="GridCell.Tab.0.center/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1658750680246" />
+    <state width="1037" height="675" key="GridCell.Tab.0.center/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660998643539" />
+    <state width="1037" height="675" key="GridCell.Tab.0.left" timestamp="1660998643539">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1080.1880@-1920.0.1920.1040" timestamp="1657282474170" />
+    <state width="1877" height="319" key="GridCell.Tab.0.left/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1658750680246" />
+    <state width="1037" height="675" key="GridCell.Tab.0.left/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660998643539" />
+    <state width="1037" height="675" key="GridCell.Tab.0.right" timestamp="1660998643539">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1080.1880@-1920.0.1920.1040" timestamp="1657282474170" />
+    <state width="1877" height="319" key="GridCell.Tab.0.right/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1658750680246" />
+    <state width="1037" height="675" key="GridCell.Tab.0.right/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660998643539" />
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom" timestamp="1660229186525">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660229186525" />
+    <state width="1037" height="684" key="GridCell.Tab.1.center" timestamp="1660229186525">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="684" key="GridCell.Tab.1.center/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660229186525" />
+    <state width="1037" height="684" key="GridCell.Tab.1.left" timestamp="1660229186525">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="684" key="GridCell.Tab.1.left/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660229186525" />
+    <state width="1037" height="684" key="GridCell.Tab.1.right" timestamp="1660229186525">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state width="1037" height="684" key="GridCell.Tab.1.right/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1660229186525" />
+    <state x="1968" y="549" key="SettingsEditor" timestamp="1659685683251">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state x="-1459" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1080.1880@-1920.0.1920.1040" timestamp="1657282385856" />
+    <state x="461" y="162" key="SettingsEditor/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1658674766718" />
+    <state x="1968" y="549" key="SettingsEditor/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1659685683251" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1657455665721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1657455665721" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1657455665721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/1920.15.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1657455665721" />
+    <state x="2123" y="450" width="672" height="678" key="search.everywhere.popup" timestamp="1658749128664">
+      <screen x="1920" y="15" width="1080" height="1880" />
+    </state>
+    <state x="2123" y="450" width="672" height="678" key="search.everywhere.popup/1920.15.1080.1880/0.0.1920.1040@1920.15.1080.1880" timestamp="1658749128664" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CVStudy$chapter_02.coverage" NAME="chapter_02 Coverage Results" MODIFIED="1657797435180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_from_book" />
+    <SUITE FILE_PATH="coverage/CVStudy$02_Alexnet.coverage" NAME="02-Alexnet Coverage Results" MODIFIED="1658989251360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1657282474159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/CVStudy$06_image_arguement.coverage" NAME="06-image-arguement Coverage Results" MODIFIED="1659692048832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$03_VGG.coverage" NAME="03-VGG Coverage Results" MODIFIED="1658754588122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$tf_learn02.coverage" NAME="tf_learn02 Coverage Results" MODIFIED="1658220760034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$lenet_5.coverage" NAME="lenet-5 Coverage Results" MODIFIED="1658670429377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN" />
+    <SUITE FILE_PATH="coverage/CVStudy$05_ResNet.coverage" NAME="05-ResNet Coverage Results" MODIFIED="1659687077111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$01_cifar.coverage" NAME="01-cifar Coverage Results" MODIFIED="1658727291636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$chapter_01.coverage" NAME="chapter_01 Coverage Results" MODIFIED="1657791116268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_from_book" />
+    <SUITE FILE_PATH="coverage/CVStudy$test.coverage" NAME="test Coverage Results" MODIFIED="1658135357998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaikeba" />
+    <SUITE FILE_PATH="coverage/CVStudy$07_finetuning.coverage" NAME="07-finetuning Coverage Results" MODIFIED="1659707531219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+    <SUITE FILE_PATH="coverage/CVStudy$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1658210947642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaikeba" />
+    <SUITE FILE_PATH="coverage/CVStudy$00_optimizer.coverage" NAME="00_optimizer Coverage Results" MODIFIED="1658564855510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$00_metrics.coverage" NAME="00-metrics Coverage Results" MODIFIED="1660470558556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/object-detection" />
+    <SUITE FILE_PATH="coverage/CVStudy$chapter_04.coverage" NAME="chapter_04 Coverage Results" MODIFIED="1658047047158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_from_book" />
+    <SUITE FILE_PATH="coverage/CVStudy$learn_matplotlib.coverage" NAME="learn_matplotlib Coverage Results" MODIFIED="1658141985652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$learn_numpy00.coverage" NAME="learn_numpy00 Coverage Results" MODIFIED="1658144683357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$tf_learn01.coverage" NAME="tf_learn01 Coverage Results" MODIFIED="1658212468840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$testgpu.coverage" NAME="testgpu Coverage Results" MODIFIED="1658738750661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN" />
+    <SUITE FILE_PATH="coverage/CVStudy$01_metrics.coverage" NAME="01-metrics Coverage Results" MODIFIED="1660560314456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/object-detection" />
+    <SUITE FILE_PATH="coverage/CVStudy$minist_demo.coverage" NAME="minist_demo Coverage Results" MODIFIED="1658592514422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1657626064813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01" />
+    <SUITE FILE_PATH="coverage/CVStudy$ndarray_01.coverage" NAME="ndarray_01 Coverage Results" MODIFIED="1658147515890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1658135780814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaikeba" />
+    <SUITE FILE_PATH="coverage/CVStudy$testGPU.coverage" NAME="testGPU Coverage Results" MODIFIED="1658210965745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaikeba" />
+    <SUITE FILE_PATH="coverage/CVStudy$01_DL.coverage" NAME="01_DL Coverage Results" MODIFIED="1658236977225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$02_DL.coverage" NAME="02_DL Coverage Results" MODIFIED="1658240148594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$01_loss_learn.coverage" NAME="01_loss_learn Coverage Results" MODIFIED="1658389768010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$demo02__1_.coverage" NAME="demo02 (1) Coverage Results" MODIFIED="1658049874337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaikeba" />
+    <SUITE FILE_PATH="coverage/CVStudy$learn_matplotlib01.coverage" NAME="learn_matplotlib01 Coverage Results" MODIFIED="1658142587440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$00_regulizers.coverage" NAME="00-regulizers Coverage Results" MODIFIED="1658570706596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI" />
+    <SUITE FILE_PATH="coverage/CVStudy$04_GoogLeNet.coverage" NAME="04-GoogLeNet Coverage Results" MODIFIED="1658924596209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heimaAI/CNN/图像分类" />
+  </component>
+</project>
