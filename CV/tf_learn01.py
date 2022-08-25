@@ -30,3 +30,4 @@ b = tf.constant([[1, 1],
 print(tf.add(a, b), "\n") # 计算张量的和
 print(tf.multiply(a, b), "\n") # 计算张量的元素乘法
 print(tf.matmul(a, b), "\n") # 计算乘法
+print('a')
